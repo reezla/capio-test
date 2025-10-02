@@ -2,6 +2,12 @@
 
 React Native app built with Expo.
 
+# Created with "tabs" template
+
+npx create-expo-app@latest --template tabs
+
+Installs and configures file-based routing with Expo Router and TypeScript enabled.
+
 ## Tech Stack
 
 React Native, Expo, TypeScript, Axios, React Navigation, Context API
